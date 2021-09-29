@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61edf848-bf38-4296-887d-c0b51bc62e1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../JavaWebEnvironment/apache-maven-3.8.1-bin/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="C:\Users\HUAWEI\OneDrive\JavaWebEnvironment\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uB0UnLeltzbT3drO7md8UT8xiq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-study" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-09\src\main\java\com\nihaomybatis\dao" />
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-09\src\main\java\com\nihaomybatis" />
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-09\src\main\resources" />
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-08\src\main\resources" />
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-07\src\main\java\com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-08\src\main\resources\com\mybatis" />
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-08\src\main\resources\com" />
+      <recent name="C:\Users\HUAWEI\OneDrive\Projects\IdeaProjects\Mybatis-study\mybatis-07\src\main\resources\com\nihaomybatis" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.nihaomybatis.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nihaomybatis.utils" />
+      <recent name="com.nihaomybatis.dao" />
+      <recent name="dao" />
+      <recent name="com.nihaomybatis.pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.queryUserById">
+    <configuration name="MyTest.queryBlogChoose" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-08" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="queryBlogChoose" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.queryBlogForeach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-08" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="queryBlogForeach" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.queryBlogIF" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-08" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="queryBlogIF" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.queryUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-09" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="queryUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.updateBlog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-08" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="updateBlog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyTest.queryBlogIF" />
+      <item itemvalue="JUnit.MyTest.queryBlogChoose" />
+      <item itemvalue="JUnit.MyTest.updateBlog" />
+      <item itemvalue="JUnit.MyTest.queryBlogForeach" />
+      <item itemvalue="JUnit.MyTest.queryUserById" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.queryUserById" />
+        <item itemvalue="JUnit.MyTest.queryBlogForeach" />
+        <item itemvalue="JUnit.MyTest.updateBlog" />
+        <item itemvalue="JUnit.MyTest.queryBlogIF" />
+        <item itemvalue="JUnit.MyTest.queryBlogChoose" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61edf848-bf38-4296-887d-c0b51bc62e1c" name="Default Changelist" comment="" />
+      <created>1624123697307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624123697307</updated>
+      <workItem from="1624123701948" duration="5178000" />
+      <workItem from="1624156054228" duration="594000" />
+      <workItem from="1624203610853" duration="5342000" />
+      <workItem from="1624524883221" duration="157000" />
+      <workItem from="1625045826989" duration="699000" />
+      <workItem from="1625106809031" duration="348000" />
+      <workItem from="1625107192115" duration="1386000" />
+      <workItem from="1625134998648" duration="444000" />
+      <workItem from="1625135468821" duration="17360000" />
+      <workItem from="1625155367737" duration="2771000" />
+      <workItem from="1625159193055" duration="5518000" />
+      <workItem from="1625199581045" duration="16283000" />
+      <workItem from="1625235160343" duration="13060000" />
+      <workItem from="1625250254269" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
